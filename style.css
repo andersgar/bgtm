@@ -1,0 +1,23 @@
+body {
+  font-family: "Trebuchet MS", sans-serif;
+  position: absolute;
+  top: 30%;
+  width: fit-content;
+  height: fit-content;
+  top: 40%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+a {
+  display: none;
+  text-decoration: none;
+  margin: 2px;
+  background-color: aqua;
+  width: fit-content;
+  padding: 2vh 2vw;
+  color: #271f5c;
+  background-color: #00e1a3;
+  margin: 2vh auto;
+}
